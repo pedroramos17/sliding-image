@@ -1,0 +1,10 @@
+{
+  "name": "sliding-image",
+  "version": "1.0.0",
+  "description": "Sliding image with parallax effect",
+  "scripts": {
+    "start": "npx browser-sync --port 3001 -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
